@@ -4,10 +4,10 @@
 
   <p class="projectBadges">
     <img src="https://johng.io/badges/category/Plugin.svg" alt="Project category" title="Project category"/>
-    <img src="https://img.shields.io/github/languages/top/jerboa88/gimp-average-layers.svg" alt="Language" title="Language"/>
-    <img src="https://img.shields.io/github/repo-size/jerboa88/gimp-average-layers.svg" alt="Repository size" title="Repository size"/>
+    <img src="https://img.shields.io/github/languages/top/twocaretcat/gimp-average-layers.svg" alt="Language" title="Language"/>
+    <img src="https://img.shields.io/github/repo-size/twocaretcat/gimp-average-layers.svg" alt="Repository size" title="Repository size"/>
     <a href="LICENSE">
-      <img src="https://img.shields.io/github/license/jerboa88/gimp-average-layers.svg" alt="Project license" title="Project license"/>
+      <img src="https://img.shields.io/github/license/twocaretcat/gimp-average-layers.svg" alt="Project license" title="Project license"/>
     </a>
   </p>
 
